@@ -1,7 +1,10 @@
 # Lights Out Game
 
 ## About
-Nice stylish lights out game made using reactjs
+Fun little game I made using ReactJS.
+
+## Live Demo
+**pending link**
 
 ## Media
 ![Initial Game State](./.repo-media/1.png?raw=true "Initial State")
@@ -9,8 +12,5 @@ Nice stylish lights out game made using reactjs
 ![Win condition](./.repo-media/3.png?raw=true "About to win")
 ![Win Game Screen](./.repo-media/4.png?raw=true "Winner!")
 
-## Live Demo
-**pending link**
-
 ## Contact me
-Email: bensykes12@gmail.com
+Email: ben@sykesdev.ca
